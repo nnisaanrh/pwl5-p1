@@ -1,1 +1,2 @@
 baris pertama, pengumpulan pertama
+pengumpulan baris kedua (update)
